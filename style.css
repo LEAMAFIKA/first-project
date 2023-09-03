@@ -1,0 +1,44 @@
+a
+{
+    display: inline-block;
+    margin-left: 6px;
+    margin-right: 6px;
+    text-decoration: none;
+    background: blue;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    text-align: center;
+    transition-property: background;
+    transition-duration: 1s;
+   }
+   a:hover
+   {background:red;
+
+   }img
+{
+ width: 250px;
+ transition-property: width;
+ transition-duration: 5s;
+}
+img:hover
+{
+ width: 600px;
+}
+#contenu-page
+{
+ width: 800px;
+ height: 700px;
+ margin: auto;
+ background: white;
+ padding: 20px;
+}
+body
+{
+ background:black;
+}
+strong
+{
+ font-size: 25px;
+}
+
